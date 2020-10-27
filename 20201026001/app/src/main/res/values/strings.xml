@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">20201026001</string>
+    <string-array name="menuItems">
+        <item>排骨飯</item>
+        <item>礦肉飯</item>
+        <item>雞腿飯</item>
+        <item>魚排飯</item>
+    </string-array>
+
+    <string-array name="menuItemsDetail">
+        <item>大块的排骨，而且便当的配菜也相当的棒</item>
+        <item>大块的礦肉，而且便当的配菜也相当的棒</item>
+        <item>大块的雞腿，而且便当的配菜也相当的棒</item>
+        <item>大块的魚排，而且便当的配菜也相当的棒</item>
+    </string-array>
+    <string name="useroption">
+        請點餐
+    </string>
+    <dimen name="Txv1_Font_Size">
+           18sp
+    </dimen>
+    <dimen name="Txv2_Font_Size">
+          12sp
+    </dimen>
+</resources>
